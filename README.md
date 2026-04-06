@@ -2,8 +2,6 @@
 
 💻 Full Stack Developer building scalable backend systems and responsive, user-friendly frontend applications.
 
----
-
         🎨 Frontend
 ⚛️ React  
 🧠 Redux Toolkit  
