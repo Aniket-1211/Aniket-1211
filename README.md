@@ -2,17 +2,17 @@
 
 💻 Full Stack Developer building scalable backend systems and responsive, user-friendly frontend applications.
 
-        🎨 Frontend
+         Frontend
 ⚛️ React  
 🧠 Redux Toolkit  
 🎨 Tailwind CSS  
-⚡ Vite  
+⚡ Vite
 
-        ⚙️ Backend
+         Backend
 🟢 Node.js  
 🚏 Express.js  
 
-        🗄️ Database
+         Database
 🍃 MongoDB  
 
 
